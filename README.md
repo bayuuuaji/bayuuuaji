@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bayuuuaji
 - 👀 I’m interested in Network and Developing
-- 🌱 I’m currently learning HTML, CSS, and Java
+- 🌱 I’m currently learning HTML, CSS, Bootstrap and Java
 - 📫 Contact me bayuuuajisantoso@gmail.com
 
 <!---
